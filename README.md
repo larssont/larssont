@@ -8,7 +8,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/larssont/larssont">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larssont&title_color=FFFFFF&text_color=E1DEE3&icon_color=32DE8A&bg_color=29303e" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larssont&title_color=FFFFFF&text_color=E1DEE3&icon_color=32DE8A&bg_color=29303e&layout=compact" />
 </a>
 <a href="https://github.com/larssont/larssont">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=larssont&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=E1DEE3&icon_color=32DE8A&bg_color=29303e" alt="Tommy's GitHub Stats" />
