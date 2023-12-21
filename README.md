@@ -1,8 +1,5 @@
 <h2 align="center">Hi 👋, I'm Tommy</h2>
 <p align="center">
-  <a href="https://larssont.com">Portfolio</a> ⬥
-    <a href="https://www.linkedin.com/in/larssont">LinkedIn</a> ⬥
-  <a href="mailto:me@larssont.com">E-mail</a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
